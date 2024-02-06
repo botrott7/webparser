@@ -16,7 +16,7 @@ def main():
     for i, result in enumerate(results):
         var = tk.BooleanVar()
         checkbutton = tk.Checkbutton(window, text=result, variable=var,
-                                     command=lambda i=i: functions.checkbox_changed(i, checkbuttons))
+                                     command=lambda i=i: functions.checkbox_changed(i, checkbuttons)) # lambda i=i, явно сохраняет значение i
         checkbutton.grid(row=i // 15, column=i % 15, sticky="w")
         checkbuttons.append(var)
 
