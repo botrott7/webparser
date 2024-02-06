@@ -1,0 +1,310 @@
+BTC	Bitcoin (BTC)
+BTCLN	Bitcoin LN (BTC)
+BTCBEP20	Bitcoin BEP20 (BTCB)
+WBTC	Wrapped BTC (WBTC)
+BCH	Bitcoin Cash (BCH)
+BSV	Bitcoin SV (BSV)
+BTG	Bitcoin Gold (BTG)
+ETH	Ethereum (ETH)
+ETHBEP20	Ethereum BEP20 (ETH)
+WETH	Wrapped ETH (WETH)
+ETC	Ethereum Classic (ETC)
+LTC	Litecoin (LTC)
+XRP	Ripple (XRP)
+XMR	Monero (XMR)
+DOGE	Dogecoin (DOGE)
+MATIC	Polygon (MATIC)
+DASH	Dash (DASH)
+ZEC	Zcash (ZEC)
+USDTOMNI	Tether Omni (USDT)
+USDTERC20	Tether ERC20 (USDT)
+USDTTRC20	Tether TRC20 (USDT)
+USDTBEP20	Tether BEP20 (USDT)
+USDTSOL	Tether SOL (USDT)
+USDTPOLYGON	Tether POLYGON (USDT)
+EURTOMNI	Tether Omni (EURT)
+EURTERC20	Tether ERC20 (EURT)
+USDCERC20	USDCoin ERC20 (USDC)
+USDCTRC20	USDCoin TRC20 (USDC)
+USDCBEP20	USDCoin BEP20 (USDC)
+USDCSOL	USDCoin SOL (USDC)
+USDCPOLYGON	USDCoin POLYGON (USDC)
+TUSDERC20	TrueUSD ERC20 (TUSD)
+TUSDTRC20	TrueUSD TRC20 (TUSD)
+USDP	Pax Dollar (USDP)
+DAI	Dai (DAI)
+BUSD	Binance USD (BUSD)
+XEM	NEM (XEM)
+NEO	NEO (NEO)
+EOS	EOS (EOS)
+IOTA	IOTA (IOTA)
+ADA	Cardano (ADA)
+XLM	Stellar (XLM)
+TRX	TRON (TRX)
+WAVES	Waves (WAVES)
+OMG	OMG Network (OMG)
+XVG	Verge (XVG)
+ZRX	0x (ZRX)
+BNBBEP2	BinanceCoin BEP2 (BNB)
+BNBBEP20	BinanceCoin BEP20 (BNB)
+ICX	ICON (ICX)
+KMD	Komodo (KMD)
+BTT	BitTorrent (BTT)
+BAT	BAT (BAT)
+ONT	Ontology (ONT)
+QTUM	Qtum (QTUM)
+LINK	Chainlink (LINK)
+ATOM	Cosmos (ATOM)
+XTZ	Tezos (XTZ)
+DOT	Polkadot (DOT)
+UNI	Uniswap (UNI)
+RVN	Ravencoin (RVN)
+SOL	Solana (SOL)
+VET	VeChain (VET)
+SHIBERC20	Shiba ERC20 (SHIB)
+SHIBBEP20	Shiba BEP20 (SHIB)
+ALGO	Algorand (ALGO)
+MKR	Maker (MKR)
+AVAX	Avalanche (AVAX)
+YFI	Yearn Finance (YFI)
+MANA	Decentraland (MANA)
+LUNA	Terra (LUNA)
+NEAR	NEAR Protocol (NEAR)
+CRO	Cronos (CRO)
+TON	Toncoin (TON)
+CAKE	PancakeSwap (CAKE)
+WMZ	WebMoney WMZ
+WME	WebMoney WME
+WMX	WebMoney WMX
+PMRUSD	Paymer USD
+PMUSD	Perfect Money USD
+PMEUR	Perfect Money EUR
+PMBTC	Perfect Money BTC
+PMVUSD	PM e-Voucher USD
+YAMRUB	ЮMoney RUB
+QWRUB	QIWI RUB
+QWKZT	QIWI KZT
+PPUSD	PayPal USD
+PPRUB	PayPal RUB
+PPEUR	PayPal EUR
+PPGBP	PayPal GBP
+PPCAD	PayPal CAD
+PPAUD	PayPal AUD
+ADVCUSD	Advanced Cash USD
+ADVCRUB	Advanced Cash RUB
+ADVCEUR	Advanced Cash EUR
+ADVCUAH	Advanced Cash UAH
+ADVCKZT	Advanced Cash KZT
+ADVCTRY	Advanced Cash TRY
+PRUSD	Payeer USD
+PRRUB	Payeer RUB
+PREUR	Payeer EUR
+SKLUSD	Skrill USD
+SKLEUR	Skrill EUR
+IDAMD	Idram AMD
+PAXUMUSD	Paxum USD
+CPTSUSD	Capitalist USD
+CPTSEUR	Capitalist EUR
+CPTSRUB	Capitalist RUB
+NTLRUSD	Neteller USD
+NTLREUR	Neteller EUR
+PSRUSD	PaySera USD
+PSREUR	PaySera EUR
+BPAYUSD	BPay USD
+ECPZUSD	ecoPayz USD
+NIXUSD	NixMoney USD
+NIXEUR	NixMoney EUR
+GMUAH	Global24 UAH
+EPAYUSD	Epay USD
+EPAYEUR	Epay EUR
+FPUSD	FasaPay USD
+ATRPUSD	AstroPay USD
+PSTRXUSD	Piastrix USD
+M10AZN	M10 AZN
+BLIKPLN	BLIK PLN
+ALPCNY	Alipay CNY
+WCTCNY	WeChat CNY
+EPPKR	EasyPaisa PKR
+JCPKR	JazzCash PKR
+PAYTMINR	Paytm INR
+MPARS	Mercado Pago ARS
+PNRUSD	Payoneer USD
+MWRUB	Счет телефона RUB
+MWUAH	Счет телефона UAH
+TRDUSD	Криптобиржи USD
+TRDEUR	Криптобиржи EUR
+EXMUSD	Exmo USD
+EXMRUB	Exmo RUB
+EXMUAH	Exmo UAH
+EXMBTC	Exmo BTC
+EXMUSDT	Exmo USDT
+BNACRUB	Binance RUB
+BCRUB	Binance Code RUB
+CRXUSD	Cryptex USD
+KUNAUAH	Kuna UAH
+WHTBTUSDT	WhiteBIT USDT
+SBERRUB	Сбербанк RUB
+SBERQRUB	Сбербанк QR RUB
+ACRUB	Альфа-Банк RUB
+ACCUSD	Альфа cash-in USD
+ACCRUB	Альфа cash-in RUB
+TCSBUSD	Тинькофф USD
+TCSBRUB	Тинькофф RUB
+TCSBCRUB	Тинькофф cash-in RUB
+TCSBQRUB	Тинькофф QR RUB
+TBRUB	ВТБ RUB
+RUSSTRUB	Русский Стандарт RUB
+AVBRUB	Авангард RUB
+PSBRUB	Промсвязьбанк RUB
+GPBRUB	Газпромбанк RUB
+KUKRUB	Кукуруза RUB
+RFBRUB	Райффайзен RUB
+RNKBRUB	РНКБ RUB
+OPNBRUB	Открытие RUB
+POSTBRUB	Почта Банк RUB
+RSHBRUB	Россельхозбанк RUB
+ROSBRUB	Росбанк RUB
+MTSBRUB	МТС Банк RUB
+HCBRUB	Хоум Кредит RUB
+P24USD	Приват 24 USD
+P24UAH	Приват 24 UAH
+RFBUAH	Райффайзен UAH
+OSDBUAH	Ощадбанк UAH
+USBUAH	УкрСиббанк UAH
+PMBBUAH	ПУМБ UAH
+MONOBUAH	Монобанк UAH
+SNBUAH	Sense Bank UAH
+OTPBUAH	OTP Bank UAH
+ABUAH	А-Банк UAH
+IZIBUAH	Izibank UAH
+NEOBUAH	NeoBank UAH
+BLRBBYN	Беларусбанк BYN
+HLKBKZT	HalykBank KZT
+BRBKZT	Bereke Bank KZT
+FRTBKZT	ForteBank KZT
+KSPBKZT	Kaspi Bank KZT
+JSNBKZT	Jusan Bank KZT
+CCBKZT	ЦентрКредит KZT
+ERSNBKZT	Евразийский банк KZT
+FFBKZT	Фридом Банк KZT
+CARDUSD	Visa/MasterCard USD
+CARDRUB	Visa/MasterCard RUB
+CARDEUR	Visa/MasterCard EUR
+CARDUAH	Visa/MasterCard UAH
+CARDBYN	Visa/MasterCard BYN
+CARDKZT	Visa/MasterCard KZT
+CARDSEK	Visa/MasterCard SEK
+CARDPLN	Visa/MasterCard PLN
+CARDMDL	Visa/MasterCard MDL
+CARDAMD	Visa/MasterCard AMD
+CARDGBP	Visa/MasterCard GBP
+CARDCNY	Visa/MasterCard CNY
+CARDTRY	Visa/MasterCard TRY
+CARDKGS	Visa/MasterCard KGS
+CARDCAD	Visa/MasterCard CAD
+CARDBGN	Visa/MasterCard BGN
+CARDHUF	Visa/MasterCard HUF
+CARDCZK	Visa/MasterCard CZK
+CARDNOK	Visa/MasterCard NOK
+CARDAZN	Visa/MasterCard AZN
+CARDGEL	Visa/MasterCard GEL
+CARDUZS	Visa/MasterCard UZS
+CARDTJS	Visa/MasterCard TJS
+CARDNGN	Visa/MasterCard NGN
+CARDINR	Visa/MasterCard INR
+CARDAED	Visa/MasterCard AED
+MIRCRUB	Карта Мир RUB
+UPCNY	Карта UnionPay CNY
+UZCUZS	Карта UZCARD UZS
+HUMOUZS	Карта HUMO UZS
+ELKGS	Карта Элкарт KGS
+WIREUSD	Банковский счет USD
+WIRERUB	Банковский счет RUB
+WIREEUR	Банковский счет EUR
+WIREUAH	Банковский счет UAH
+WIREBYN	Банковский счет BYN
+WIREKZT	Банковский счет KZT
+WIREGEL	Банковский счет GEL
+WIREGBP	Банковский счет GBP
+WIRECNY	Банковский счет CNY
+WIRETRY	Банковский счет TRY
+WIREPLN	Банковский счет PLN
+WIRETHB	Банковский счет THB
+WIREINR	Банковский счет INR
+WIRENGN	Банковский счет NGN
+WIREIDR	Банковский счет IDR
+WIREBGN	Банковский счет BGN
+WIREAED	Банковский счет AED
+WIREJPY	Банковский счет JPY
+WIREAUD	Банковский счет AUD
+WIRECAD	Банковский счет CAD
+WIREHKD	Банковский счет HKD
+WIREVND	Банковский счет VND
+WIREMYR	Банковский счет MYR
+WIRENZD	Банковский счет NZD
+WIREPKR	Банковский счет PKR
+WIREILS	Банковский счет ILS
+WIRERON	Банковский счет RON
+WIREKRW	Банковский счет KRW
+SEPAEUR	SEPA EUR
+ERIPBYN	ЕРИП Расчет BYN
+SBPRUB	СБП RUB
+STLMRUB	Счет компании RUB
+STLMUAH	Счет компании UAH
+REVBUSD	Revolut USD
+REVBEUR	Revolut EUR
+WISEUSD	Wise USD
+WISEEUR	Wise EUR
+WISEGBP	Wise GBP
+ATMQRTHB	ATM QR-код THB
+ATMQRBRL	ATM QR-код BRL
+WUUSD	WU USD
+WUEUR	WU EUR
+MGUSD	MoneyGram USD
+MGEUR	MoneyGram EUR
+CNTUSD	Contact USD
+CNTRUB	Contact RUB
+GCMTUSD	ЗК USD
+GCMTRUB	ЗК RUB
+USTMUSD	UNI USD
+USTMRUB	UNI RUB
+RMTFUSD	Ria USD
+RMTFEUR	Ria EUR
+CASHUSD	Наличные USD
+CASHRUB	Наличные RUB
+CASHEUR	Наличные EUR
+CASHUAH	Наличные UAH
+CASHBYN	Наличные BYN
+CASHKZT	Наличные KZT
+CASHGBP	Наличные GBP
+CASHAED	Наличные AED
+CASHTRY	Наличные TRY
+CASHCOP	Наличные COP
+CASHPLN	Наличные PLN
+CASHILS	Наличные ILS
+CASHCZK	Наличные CZK
+CASHGEL	Наличные GEL
+CASHAMD	Наличные AMD
+CASHCAD	Наличные CAD
+CASHTHB	Наличные THB
+CASHAUD	Наличные AUD
+CASHNGN	Наличные NGN
+CASHBGN	Наличные BGN
+CASHAZN	Наличные AZN
+CASHMDL	Наличные MDL
+CASHCHF	Наличные CHF
+CASHRON	Наличные RON
+CASHIDR	Наличные IDR
+CASHCNY	Наличные CNY
+CASHMXN	Наличные MXN
+CASHSGD	Наличные SGD
+CASHKRW	Наличные KRW
+CASHBRL	Наличные BRL
+CASHINR	Наличные INR
+CASHJPY	Наличные JPY
+CASHARS	Наличные ARSTBRUB
+P24UAH
+CARDAED
+WIRETRY
+OSDBUAH
+CCBKZT
