@@ -4,19 +4,6 @@ from logs.logs import logger
 SELECTED_RESULTS = []
 
 
-def load_results():
-    '''Загрузка данных из файла'''
-    results = []
-    try:
-        with open('datatxt/filtered_bitcoin_list.txt', 'r', encoding='utf-8') as file:
-            for line in file:
-                results.append(line.split()[0])
-        return results
-    except FileNotFoundError:
-        messagebox.showerror("Ошибка", "Файл не найден")
-        return []
-
-
 def show_selection(checkbuttons, results):
     '''Обработка выбора, вывод результата, очистка поля выбора'''
     try:
@@ -27,11 +14,11 @@ def show_selection(checkbuttons, results):
         if len(selected_values) == 2:
             result = ''.join(selected_values)
             SELECTED_RESULTS.append(result)
-            print(','.join([f'{index}{two}' for two, index in enumerate(SELECTED_RESULTS, start=1)]))
             for checkbutton in checkbuttons:
                 checkbutton.set(False)
         else:
             messagebox.showerror("Ошибка", "Выберите два значения")
+        print(','.join([f'{index}{two}' for two, index in enumerate(SELECTED_RESULTS, start=1)]))
     except:
         logger.error("Произошла ошибка во время выполнения функции show_selection().")
 
