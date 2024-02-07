@@ -25,7 +25,7 @@ def main():
         window = tk.Tk()
         window.title("Выбор результатов")
         # Центрирование окна
-        window_width = 800
+        window_width = 570
         window_height = 800
         screen_width = window.winfo_screenwidth()
         screen_height = window.winfo_screenheight()
@@ -61,7 +61,7 @@ def main():
             CHECKBUTTONS.append(var)
 
         button = tk.Button(window, text="Выбрать", command=lambda: functions.show_selection(CHECKBUTTONS, RESULTS),
-                           height=2, bg="red", fg="white",
+                           height=2, bg="lime", fg="white",
                            font=("Arial", 12, "bold"))
         button.pack(pady=10)
 
